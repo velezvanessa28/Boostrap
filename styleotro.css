@@ -1,9 +1,15 @@
-.col1 {
-	background-color: #4E4E4E;
-	color: #919495;
-	padding: 8px 0 10px 35px;
+.titulo {
+	background-color: #EAEAEA;
+	padding: 3rem;
+	margin-top: 10px;
 }
 
-.row-show{
-	background-color: #A4A4A4;
+.Segundo {
+	background-color: #EAEAEA;
+}
+
+.barra {
+	background-color: #5A5A5A;
+	padding: 10px;
+	color: #fff;
 }
